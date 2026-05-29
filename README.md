@@ -2,7 +2,7 @@
 
 > 面向 AI 产品/研发、Agent/RAG 开发者的中文 AI Infra 入门教程。
 
-![InfraCompass cover](assets/images/ai_infra_stack_cover.png)
+![InfraCompass cover](assets/images/ai_infra_stack_cover_unlabeled.png)
 
 ![Language](https://img.shields.io/badge/language-中文-blue)
 ![Format](https://img.shields.io/badge/format-Jupyter%20Notebook-orange)
@@ -56,10 +56,10 @@ Notebook 中包含 Mermaid 图和项目图片，用来解释抽象的基础设�
 
 | 概念 | 预览 |
 |---|---|
-| AI Infra 技术栈 | ![AI Infra stack](assets/images/ai_infra_stack_cover.png) |
-| GPU 显存与计算 | ![GPU memory concept](assets/images/gpu_memory_concept.png) |
-| LLM 推理流水线 | ![LLM inference pipeline](assets/images/llm_inference_pipeline.png) |
-| RAG/Agent 生产化加固 | ![RAG Agent hardening](assets/images/rag_agent_hardening.png) |
+| AI Infra 技术栈 | ![AI Infra stack](assets/images/ai_infra_stack_cover_unlabeled.png) |
+| GPU 显存与计算 | ![GPU memory concept](assets/images/gpu_memory_concept_unlabeled.png) |
+| LLM 推理流水线 | ![LLM inference pipeline](assets/images/llm_inference_pipeline_unlabeled.png) |
+| RAG/Agent 生产化加固 | ![RAG Agent hardening](assets/images/rag_agent_hardening_unlabeled.png) |
 
 ## 项目结构
 
