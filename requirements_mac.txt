@@ -1,0 +1,9 @@
+# Lightweight dependencies for the AI Infra tutorial notebooks.
+# vLLM-Metal should be installed separately with its official install script.
+
+jupyter>=1.0.0
+nbformat>=5.10.0
+numpy>=1.26.0
+pandas>=2.0.0
+matplotlib>=3.8.0
+openai>=1.0.0
